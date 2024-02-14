@@ -1,0 +1,115 @@
+body {
+    background: url(../IMG/page-bg.jpg) no-repeat center center fixed;
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#tudo {
+    width: 40%;
+    height: inherit;
+    margin: 1% auto;
+}
+
+#centroLogin1 {
+    width: 40%;
+    margin-right: 4%;
+}
+
+#centroLogin {
+    width: 40%;
+}
+
+#Login button {
+    margin: 10px;
+}
+
+#Login #s {
+    color: white;
+    font-size: 75px;
+    margin-top: -150px;
+    margin-bottom: 50px;
+}
+
+#ft1 {
+    width: 60%;
+    height: 25vh!important;
+    border: 1px solid wheat;
+    border-radius: 20px;
+}
+
+#div1 {
+    text-align: center;
+    margin-top: -15%;
+}
+
+#img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 95px;
+    font-weight: bold;
+    font-size: 22pt;
+    text-align: center;
+}
+
+#login {}
+
+#texto,
+#pass {
+    width: 75%;
+    height: 50px;
+    margin-left: 12%;
+    border-left: none;
+    font-size: 25px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+#pass {
+    position: relative;
+    top: -32px;
+}
+
+input {
+    margin-left: 7%;
+}
+
+#enviar {}
+
+#enviar1 {}
+
+.foto {
+    width: 5%;
+    height: 50px;
+    position: relative;
+    left: 7.3%;
+    top: 40px;
+    background-color: white;
+    border: 1px white;
+    /*  background-image: url(../IMG/friends.png); */
+    background-size: cover;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+
+#chave {
+    top: 20px;
+}
+
+.image {
+    width: 90%;
+    height: inherit;
+}
+
+#texto {
+    margin-top: -13px;
+}
+
+#pessoa {
+    height: 51px;
+}

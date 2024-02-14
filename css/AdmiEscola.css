@@ -1,0 +1,833 @@
+    #divPrincipal1 {
+        background-color: rgb(1, 2, 0);
+        height: 10vh;
+        text-align: center;
+        color: white;
+        border: 5px solid white;
+    }
+    
+    #btDisciplina {
+        height: 8vh!important;
+        margin-left: 7vw!important;
+        width: 8vw!important;
+    }
+    
+    #btDisciplinaAt {
+        height: 8vh!important;
+        margin-left: 3vw!important;
+        width: 8vw!important;
+    }
+    
+    #inputDisciplina {
+        height: 8vh!important;
+        margin-right: 1vw!important;
+        width: 26vw!important;
+    }
+    
+    #inputCurso {
+        width: 26vw!important;
+    }
+    
+    #divPrincipal2 {
+        height: 3vh;
+        text-align: right;
+        background-color: palegoldenrod;
+    }
+    
+    #divMenu select {
+        height: 65px!important;
+    }
+    
+    #inputCurso {
+        height: 65px!important;
+    }
+    
+    #inputDisciplina {
+        height: 65px!important;
+    }
+    
+    #curso {
+        height: 65px!important;
+    }
+    
+    #classe {
+        height: 65px!important;
+    }
+    
+    #turno {
+        height: 65px!important;
+    }
+    
+    #sexo {
+        height: 65px!important;
+    }
+    
+    #divPrincipal1 label {
+        margin-top: 18px!important;
+        font-size: 20px;
+    }
+    
+    header {
+        background-color: olivedrab !important;
+    }
+    
+    #menu {
+        background-color: rgb(75, 95, 36) !important;
+        border: 5px solid rgb(0, 0, 0);
+    }
+    
+    #contain {
+        text-align: center;
+    }
+    
+    #principal {
+        background-color: rgb(174, 199, 123) !important;
+        border: 5px solid rgb(38, 121, 0);
+        height: 80vh !important;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    #divCorpo {
+        padding: 0;
+        margin: 0%;
+        width: 100%;
+    }
+    
+    #not .imgQuadro {
+        width: 90%;
+        margin: 4%;
+        height: 65vh;
+    }
+    
+    #not {
+        border: 3px solid white;
+        width: 24%;
+        height: 78vh;
+        margin-left: 75.5%;
+        margin-top: -79vh!important;
+        background-color: rgba(204, 204, 204, 0.637);
+    }
+    
+    #button1 {
+        margin-right: 15px;
+    }
+    
+    #button2 {
+        margin-right: 15px;
+    }
+    
+    #button3 {
+        margin-right: 15px;
+    }
+    
+    #button4 {
+        margin-right: 15px;
+    }
+    /* GRAFICO */
+    
+    #graficoScrol {
+        width: 100%;
+        overflow-y: auto;
+        height: 85vh!important;
+        border: 5px solid black;
+        background-color: rgb(255, 255, 255) !important;
+    }
+    
+    #divAdNota1 {
+        background: #34c2ba;
+        width: 101%;
+        margin-bottom: 20px;
+        margin-top: -10px;
+        height: 50px;
+    }
+    
+    #divAdNota1 div {
+        margin-right: 10px;
+    }
+    
+    #divAdNota1 div select {
+        width: 100%;
+        cursor: pointer;
+        background: #63e9e1;
+        text-align: top;
+    }
+    
+    #btPesqGrafic {
+        margin-left: 80%;
+        margin-bottom: -40px;
+    }
+    
+    .linkLuanda {
+        margin-left: 2%;
+        font-size: 15px;
+        color: white;
+    }
+    
+    #formGrafico {
+        background-color: rgb(44, 44, 44);
+        width: 100%;
+        height: 100vh;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #idT {
+        margin-left: 30%!important;
+    }
+    
+    #myChart {
+        background-color: rgb(22, 21, 21)!important;
+    }
+    
+    #mac {
+        font-size: 13px;
+    }
+    
+    #mexer {
+        width: 400%!important;
+    }
+    
+    #inputAd input {
+        text-align: center!important;
+        width: 20%!important;
+        margin: 2px;
+    }
+    
+    #divBt {
+        border: 5px solid rgb(9, 73, 102);
+        text-align: right;
+    }
+    
+    #divBt #Close1 {
+        border: 2px solid black;
+        background-color: red !important;
+        opacity: 10;
+    }
+    
+    #de .btn-primary s {
+        margin-top: -700px!important;
+    }
+    
+    #formFerramenta .btn-primary {
+        margin-top: -10px!important;
+    }
+    /* FORM VITRINE */
+    
+    #formVitrine {
+        height: 70vh;
+        width: 75%;
+        border: 10px solid white;
+    }
+    
+    #carouselExampleControls img {
+        height: 68vh!important;
+    }
+    
+    #carouselExampleControls p {
+        border: 5px solid blue!important;
+        background-color: white;
+        color: black;
+        height: 70vh;
+    }
+    /* ADMINISTRADOR */
+    
+    #divBtAdministrador {
+        width: 100%;
+    }
+    
+    #divInfProfe {
+        border: 5px solid black!important;
+        width: 90%!important;
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: 75vh;
+    }
+    
+    .divInf div select {
+        height: 85px;
+    }
+    
+    #scrolProfe {
+        border: 5px solid black!important;
+    }
+    
+    .dados label {
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    
+    #b1 {
+        margin-left: 270px!important;
+    }
+    
+    #b2 {
+        margin-left: 220px!important;
+    }
+    
+    #b22 {
+        margin-left: 100px!important;
+    }
+    
+    #b3 {
+        margin-left: 400px!important;
+    }
+    
+    #divBtAdministrador li button {
+        margin-top: 25px;
+        width: 12%;
+        height: 50px;
+        margin: auto 0;
+    }
+    
+    #divBtAdministrador ul {
+        margin-top: 0;
+    }
+    
+    #divBtAdministrador ul li img {
+        margin-left: 1%;
+    }
+    
+    .img1 {
+        width: 7%;
+        height: 13vh;
+        margin-right: 10px;
+    }
+    /* FORM ALUNO */
+    
+    #formAluno {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #formAlteAluno {
+        background-color: aqua;
+        width: 100%;
+        height: 75vh;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #tbResponsivo {
+        height: 75vh!important;
+        overflow-y: scroll!important;
+    }
+    
+    #tbResponsivo1 {
+        height: 85vh!important;
+        overflow-y: scroll!important;
+    }
+    
+    #addNotas td input {
+        width: 80%!important;
+        text-align: center;
+    }
+    
+    #scrol {
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: 80vh;
+    }
+    
+    #scrolChatTurma {
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: 70vh!important;
+    }
+    
+    #cont {
+        text-align: center;
+    }
+    
+    #formAlteAdmi {
+        background-color: aqua;
+        width: 100%;
+        height: 75vh;
+    }
+    
+    #de {
+        text-align: center;
+    }
+    
+    #de1 {
+        border: 5px solid black;
+        text-align: center;
+        height: 70vh;
+        width: 80%!important;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    
+    #divMenu div {
+        margin-right: 1%;
+        margin-left: 1%;
+    }
+    
+    #ChekBox {
+        margin-top: 2vh;
+    }
+    /* FORM PROFESSOR */
+    
+    #formProf {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #divProf {
+        width: 10%;
+    }
+    /* FORM FERRRAMENTA */
+    
+    #formFerramenta {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* FORM PAGAMENTO */
+    
+    #formPagamento {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    .dados label {
+        margin: 15px;
+    }
+    
+    .dados {
+        text-align: left;
+    }
+    
+    #mes {
+        margin-left: 80% !important;
+    }
+    
+    #mes select {
+        height: 65px;
+    }
+    
+    #b1 {
+        margin-left: 30%;
+    }
+    
+    #b2 {
+        margin-left: 26.5%;
+    }
+    
+    #b3 {
+        margin-left: 40%;
+    }
+    /* FORM ANUNCIO */
+    
+    #formAnuncio {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* FORM INFORMACAO */
+    
+    #formInfAluno {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #divBtInformacao li button {
+        margin-top: 25px;
+        width: 10%;
+        height: 6vh;
+        margin: auto 0;
+    }
+    
+    #divBtInformacao {}
+    
+    .imgInfAluno {
+        width: 17%;
+        height: 200px;
+    }
+    
+    #perfil {
+        text-align: right;
+        margin-top: -80vh;
+    }
+    /* FORM INFORMACAO  PROFESSOR*/
+    
+    #formInfProf {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* FORM INFORMACAO  TURMA*/
+    
+    #formInfTurma {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    .divInf {
+        background: #34c2ba;
+        width: 100%;
+        height: 8%;
+        margin-top: -20px;
+    }
+    
+    .divInf div {
+        margin-right: 5px;
+    }
+    
+    .divInf div select {
+        width: 100%;
+        padding: 5px;
+        cursor: pointer;
+        background: #63e9e1;
+    }
+    
+    #Pesquisar {
+        margin-left: 92%;
+        cursor: pointer;
+        margin-bottom: -22px;
+    }
+    
+    table th {
+        text-align: center;
+    }
+    
+    table td {
+        text-align: center;
+    }
+    /* INFORMACAO FINANCA */
+    
+    #formInfFinanca {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* FORMULARIO ADD NOTAS */
+    
+    #formAdNota {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* FORM MENSSAGEM */
+    
+    #btMessagem1 {}
+    
+    #formMenssagemProf {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #formChatProf {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #formChatTurma {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #formChatMinisterio {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+    }
+    
+    #formMenssagemTurma {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    #btMessagem1 li button {
+        margin-top: 25px;
+        width: 12%;
+        height: 50px;
+        margin: auto 0;
+    }
+    
+    #btMessagem1 ul {
+        margin-top: 0;
+    }
+    
+    #btMessagem1 ul li img {
+        margin-left: 1%;
+    }
+    
+    #btMessagem {}
+    /* FORMULARIO MENSSAGEM AMINISTERIO */
+    
+    #formMenssagemAdmi {
+        background-color: aqua;
+        width: 100%;
+        height: 100vh;
+        margin-top: -25px!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    /* ESTATICA DE CADA TURMA */
+    
+    #divPrincipal11 {
+        background-color: aqua;
+        height: 95vh!important;
+        border: 10px solid black!important;
+        border-bottom: none!important;
+        border-top: none!important;
+    }
+    
+    .divInf11 {
+        background: #34c2ba;
+        width: 100%;
+        height: 8%;
+        margin-top: -20px;
+    }
+    
+    .divInf11 select {
+        width: 15%;
+        padding: 5px;
+        cursor: pointer;
+        background: #63e9e1;
+    }
+    
+    #Pesquisar11 {
+        margin-left: 92%;
+        cursor: pointer;
+        margin-bottom: -22px;
+    }
+    
+    #cadapub {
+        border: 4px solid black;
+        text-align: left;
+    }
+    /* CHAT   */
+    
+    #text {
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    
+    #texto {
+        width: 100%;
+    }
+    
+    h7 {
+        color: rgb(0, 255, 255);
+    }
+    
+    p {
+        color: white;
+    }
+    
+    .srch_bar .input-group-addon button {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        border: medium none;
+        padding: 0;
+        color: #707070;
+        font-size: 18px;
+    }
+    
+    .time_date {
+        color: #00ff4c;
+        display: block;
+        font-size: 12px;
+        margin: 8px 0 0;
+    }
+    
+    .received_withd_msg {}
+    
+    .outgoing_msg {
+        overflow: hidden;
+        margin: 26px 0 26px;
+    }
+    
+    .sent_msg {
+        float: right;
+    }
+    
+    #tamanho1 {
+        box-sizing: content-box;
+        border-radius: 10px;
+    }
+    
+    #tamanho2 {
+        box-sizing: content-box;
+        border-radius: 10px;
+    }
+    
+    #tamanho1::before {
+        left: -15px;
+        border-bottom: 20px solid transparent;
+        border-right: 20px solid #003847;
+    }
+    
+    #tamanho1 {
+        background-color: #003847;
+        display: inline-block;
+        padding: 10px 10px;
+        position: relative;
+        margin-left: 20px;
+        margin: 15px;
+    }
+    /* importante */
+    
+    #tamanho1::before {
+        content: "";
+        position: absolute;
+        top: 5px;
+        width: 0;
+        height: 0;
+    }
+    
+    #tamanho2::before {
+        right: -15px;
+        border-bottom: 20px solid transparent;
+        border-left: 20px solid rgb(10, 122, 122);
+    }
+    
+    #tamanho2 {
+        background-color: rgb(10, 122, 122);
+        display: inline-block;
+        padding: 10px 10px;
+        position: relative;
+        margin-right: 20px;
+    }
+    /* importante */
+    
+    #tamanho2::before {
+        content: "";
+        position: absolute;
+        top: 5px;
+        width: 0;
+        height: 0;
+    }
+    
+    #history {
+        overflow-y: auto !important;
+        height: 65vh;
+        background: white;
+    }
+    
+    #bb1 {
+        margin-left: 105%;
+        margin-top: -65px;
+    }
+    
+    #inputFile {
+        margin-top: 0px;
+    }
+    
+    #outro {
+        height: 7vh;
+    }
+    
+    #novoMenu select {
+        width: 100%!important;
+        height: 65px!important;
+    }
+    
+    #ver select {
+        width: 100%!important;
+        height: 65px!important;
+    }
+    
+    #resultCadaProfe {
+        height: 85vh;
+    }
+    
+    #mostraTurma {
+        text-align: center;
+    }
+    /**MEDIA VIEW**/
+    
+    @media (min-width: 800px) {
+        #container {
+            border: 1px solid #111;
+            width: 70%;
+        }
+    }
+    
+    @media (max-width: 800px) {
+        #chat {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 990px) {
+        html {
+            display: none;
+        }
+    }
+    
+    #pVitrine {
+        background-color: rgb(255, 0, 0)!important;
+    }

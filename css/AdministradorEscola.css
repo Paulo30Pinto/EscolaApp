@@ -1,0 +1,788 @@
+#divPrincipal {
+    background-color: olivedrab;
+    border: 5px solid black;
+    height: 100vh;
+}
+
+#divPrincipal1 {
+    background-color: rgb(1, 2, 0);
+    height: 10vh;
+    text-align: center;
+    color: white;
+}
+
+#divPrincipal1 label {
+    margin-top: 1%;
+}
+
+#not {
+    border: 3px solid black;
+    width: 24%;
+    height: 75vh;
+    margin-left: 75.8%;
+}
+
+#divCorpo {
+    height: 75vh;
+    background-color: aliceblue;
+    border: 4px solid red;
+}
+
+#divCorpo1 {
+    height: 75vh;
+    width: 100%;
+    background-color: aliceblue;
+    border: 4px solid rgb(216, 20, 255);
+    margin-top: -78vh;
+}
+
+#not .imgQuadro {
+    width: 90%;
+    margin: 4%;
+    height: 65vh;
+}
+
+
+/* BOTAO MENU */
+
+#divPrincipal2 {
+    height: 3vh;
+    text-align: right;
+    background-color: palegoldenrod;
+}
+
+#divPrincipal2 button {
+    margin-right: 20px;
+    height: 25px;
+}
+
+#button1 {
+    margin-right: 15px;
+}
+
+#button2 {
+    margin-right: 15px;
+}
+
+#button3 {
+    margin-right: 15px;
+}
+
+#button4 {
+    margin-right: 15px;
+}
+
+
+/* GRAFICO */
+
+#divAdNota1 {
+    background: #34c2ba;
+    width: 101%;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+
+#divChart {
+    margin-top: -5vh;
+    width: 100%;
+}
+
+#divAdNota1 select {
+    width: 15%;
+    padding: 5px;
+    cursor: pointer;
+    background: #63e9e1;
+    border: 5px solid black;
+    text-align: top;
+}
+
+#btPesqGrafic {
+    margin-left: 80%;
+    margin-bottom: -40px;
+}
+
+.linkLuanda {
+    margin-left: 2%;
+    font-size: 15px;
+    color: white;
+}
+
+#form2 {
+    background-color: aqua;
+    width: 100%;
+    height: 90vh;
+}
+
+#divGrafico {}
+
+
+/* BOTOES ADMINISTRADOR */
+
+#divBtAdministrador {
+    border: 5px solid yellow;
+    background-color: aqua;
+    width: 100%;
+}
+
+.dados label {
+    margin-left: 2%;
+}
+
+#b1 {
+    margin-left: 30%;
+}
+
+#b2 {
+    margin-left: 26.5%;
+}
+
+#b3 {
+    margin-left: 40%;
+}
+
+#divBtAdministrador li button {
+    margin-top: 25px;
+    width: 12%;
+    height: 50px;
+    margin: auto 0;
+}
+
+#divBtAdministrador ul {
+    margin-top: 0;
+}
+
+#divBtAdministrador ul li img {
+    margin-left: 1%;
+}
+
+
+/* botao Aluno */
+
+.formAluno {
+    height: 620px;
+    background-color: red;
+}
+
+#de {
+    border: 5px solid black;
+    text-align: center;
+}
+
+#divMenu div {
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+#ChekBox {
+    margin-top: 2vh;
+}
+
+#inputAlunoN3 {
+    width: 13%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+}
+
+.inputAlunoSelect {
+    width: 129px;
+    height: 30px;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+#inputAluno {
+    width: 60%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 1%;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+}
+
+#inputAlunoN2 {
+    width: 12%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+}
+
+.inputAlunoB {
+    width: 33%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 3%;
+    border-bottom: 1px solid black;
+    margin-left: 3%;
+}
+
+.dadosEnc {
+    opacity: 0.7;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 200px;
+    width: 300px;
+}
+
+#inputAlunoE {
+    width: 50%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 1%;
+}
+
+.inputAlunoEB {
+    width: 40%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 18px;
+}
+
+#btCadastrar {
+    width: 25%;
+    margin: 30px;
+    margin-left: 30%;
+    cursor: pointer;
+}
+
+
+/* botao professor  */
+
+.formProfessor {
+    width: 50%;
+    height: 57vh;
+    margin-left: 24%;
+    background: white;
+    margin-top: 120px;
+}
+
+#inputProf {
+    width: 60%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+}
+
+#inputNasc {
+    width: 15%;
+    height: 7%;
+    background: #c0eaff;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 18px;
+}
+
+#inputTurma {
+    width: 12%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 18px;
+}
+
+#inputAlunoE {
+    width: 30%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 18px;
+}
+
+#inputProfBi {
+    width: 30%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 18px;
+}
+
+#inputAlunoN {
+    width: 10%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+}
+
+#inputAlunoN2 {
+    width: 12%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+}
+
+#inputAlunoN1 {
+    width: 12%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.inputAlunoN1 {
+    width: 20%;
+    height: 7%;
+    background: #d7f0f1;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.labCadastroAluno {
+    margin-top: -650px;
+    margin-left: 50px;
+    opacity: 0.6;
+    margin-bottom: 0px;
+    width: 75%;
+    text-align: center;
+}
+
+.btFechar:hover {
+    background: none;
+}
+
+.btCadastrar {
+    width: 300px;
+    margin: 30px;
+    padding: 15px;
+    margin-left: 170px;
+    border-radius: 5px;
+    font-size: 25px;
+    background: #4cb9c0;
+    color: white;
+    cursor: pointer;
+}
+
+
+/* FORMULARIO DAS ALTERACOES */
+
+#formFerramenta {
+    width: 50%;
+    height: 68vh;
+    background: white;
+    margin-left: 24%;
+    margin-top: -530px;
+    border: 3px solid black;
+}
+
+.busca input {
+    background: white;
+}
+
+.busca select {
+    background: white;
+}
+
+.busca .btCadastrar {
+    background: #4cb9c0;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+#inputPassword2 {
+    width: 85%;
+    margin-top: 3%;
+    border: none;
+    padding: 5px;
+    border-bottom: 2px solid black;
+    background-color: #cdfcff;
+}
+
+.col-auto button {
+    margin-left: 86%;
+    margin-top: -50px;
+}
+
+
+/* FORMULARIO DA FINANCA  */
+
+#formFinanca {
+    width: 50%;
+    height: 57vh;
+    background: white;
+    margin-left: 24%;
+    margin-top: -530px
+}
+
+.inputFinanca {
+    width: 80%;
+    height: 8%;
+    background: #dff4ff;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+}
+
+.inputAdNota {
+    width: 40%;
+    height: 5vh;
+    background: #dff4ff;
+    border-bottom: 1px solid black;
+    margin-top: -10px;
+}
+
+.btPesq {
+    width: 13%;
+    height: 46px;
+    border-radius: 5px;
+    cursor: pointer;
+    background: hsl(172, 88%, 35%);
+    color: white;
+    border: 3px solid rgb(25, 133, 100);
+    margin-top: 10px;
+    margin-left: -15px;
+    margin-bottom: -15px;
+}
+
+.btPesqAd {
+    width: 8%;
+    height: 5vh;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    background: hsl(172, 88%, 35%);
+    color: white;
+    border-top-right-radius: 3px solid rgb(25, 133, 100);
+    border-bottom-right-radius: 3px solid rgb(25, 133, 100);
+    margin-bottom: -15px;
+    margin-left: -8px;
+}
+
+.imgPesq {
+    width: 30%;
+}
+
+.dados {
+    font-size: 15px;
+}
+
+.inputmes {
+    width: 120px;
+    height: 30px;
+    background: #c0eaff;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    margin-left: 550px;
+    cursor: pointer;
+}
+
+
+/* FORMULARIO DO ANUNCIO  */
+
+.formAnuncio {
+    width: 50%;
+    height: 57vh;
+    background: white;
+    margin-left: 24%;
+    margin-top: -530px;
+}
+
+.cor {
+    width: 50px;
+}
+
+.inputcor {
+    width: 120px;
+    height: 30px;
+    background: #c0eaff;
+    border-bottom: 1px solid black;
+    margin-left: 85%;
+    margin-top: -300px;
+    cursor: pointer;
+}
+
+pre {
+    margin-bottom: -25px;
+}
+
+.barra {
+    border: 3px solid black;
+    height: 40px;
+    background: rgb(25, 144, 223);
+    color: white;
+}
+
+.file {
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 150px;
+}
+
+#area {
+    height: 350px;
+    margin-left: 5%;
+}
+
+
+/* BOTAO INFORMACAO */
+
+#divBtInformacao {
+    border: 5px solid green;
+    background-color: pink;
+    width: 100%;
+    margin-top: 5vh;
+}
+
+#divBtInformacao li button {
+    margin-top: 25px;
+    width: 10%;
+    height: 6vh;
+    margin: auto 0;
+}
+
+#divBtInformacao ul {}
+
+.img1 {
+    width: 7%;
+    height: 13vh;
+    margin-right: 10px;
+    border: 5px solid blue;
+}
+
+#divBtInformacao ul li img {
+    margin-left: 1%;
+}
+
+
+/* FORMULARIO INFORMACAO ALUNO */
+
+.formInfAluno {
+    width: 50%;
+    height: 57vh;
+    background: white;
+    margin-left: 24%;
+    margin-top: -60vh;
+}
+
+.imgInfAluno {
+    width: 100%;
+    height: 300px;
+    margin-top: 2%;
+    border: 3px solid rgb(57, 114, 201);
+    background: hsl(172, 59%, 23%)
+}
+
+.preInf {
+    margin-bottom: -300px;
+}
+
+
+/* FORMULARIO INFORMACAO PROFESSOR */
+
+.formInfProf {
+    width: 50%;
+    height: 57vh;
+    background: white;
+    margin-left: 24%;
+    margin-top: -60vh;
+}
+
+.imgInfProf {
+    width: 400px;
+    height: 300px;
+    border: 3px solid rgb(57, 114, 201);
+    margin-left: 800px;
+    margin-top: -1500px;
+    background: hsl(172, 59%, 23%)
+}
+
+.preInfP {
+    margin-bottom: -300px;
+}
+
+#divInformaBts {
+    margin-top: -450px;
+    width: 75%;
+    height: 60vh;
+    border: 5px solid rgb(10, 116, 28);
+    text-align: left;
+}
+
+
+/* FORMULARIO INFORMACAO DAS TURMAS */
+
+#formInfTurma {
+    width: 78%;
+    height: 57vh;
+    background: white;
+    margin-left: 21%;
+    margin-top: -60vh;
+}
+
+.formInfFinanca {
+    width: 78%;
+    height: 57vh;
+    background: white;
+    margin-left: 21%;
+    margin-top: -60vh;
+}
+
+.linkLuanda1 {
+    margin-left: 1%;
+    font-size: 15px;
+    margin-right: 65px;
+    margin-top: 0px;
+}
+
+.preInfP {
+    margin-bottom: -300px;
+}
+
+.divInf {
+    background: #34c2ba;
+    width: 100%;
+    height: 8%;
+    margin-top: -20px;
+}
+
+.divInf select {
+    width: 15%;
+    padding: 5px;
+    cursor: pointer;
+    background: #63e9e1;
+}
+
+#Pesquisar {
+    margin-left: 92%;
+    cursor: pointer;
+    margin-bottom: -22px;
+}
+
+
+/* BOTAO ADD NOTA */
+
+#divBtAddNota {
+    border: 5px solid blue;
+    margin-top: -7vh;
+}
+
+.formAdNota {
+    width: 100%;
+    height: 93vh;
+    background: white;
+    border: 5px solid black;
+}
+
+.divAdNota {
+    background: #34c2ba;
+    width: 100%;
+    height: 8%;
+    margin-top: -23px;
+}
+
+.divAdNota select {
+    width: 15%;
+    padding: 5px;
+    cursor: pointer;
+    background: #63e9e1;
+}
+
+#inputPassword1 {
+    width: 50%;
+    border: none;
+    margin-left: 20%;
+    padding: 5px;
+    border-bottom: 2px solid black;
+    background-color: #cdfcff;
+}
+
+#btAD {
+    margin-left: 71%;
+}
+
+#close1 {
+    border: 5px solid black;
+    margin-top: 1%;
+    margin-left: 95%;
+}
+
+
+/* FORM VITRINE */
+
+#formVitrine {
+    height: 70vh;
+    margin-top: -5vh;
+    width: 76%;
+    border: 5px solid blue;
+}
+
+#cona {
+    border: 5px solid lime;
+    background-color: lime;
+    height: 50vh;
+}
+
+#carouselExampleControls img {
+    height: 70vh;
+    border: 5px solid red;
+}
+
+
+/* FORM MENSSAGEM */
+
+#btMessagem1 li button {
+    margin-top: 25px;
+    width: 12%;
+    height: 50px;
+    margin: auto 0;
+}
+
+#btMessagem1 ul {
+    margin-top: 0;
+}
+
+#btMessagem1 ul li img {
+    margin-left: 1%;
+}
+
+#btMessagem {
+    border: 5px solid green;
+}
+
+#divbtPesq {
+    border: 5px solid black;
+    width: 50%;
+    height: 60vh;
+    margin-left: 295px;
+    margin-top: -58vh;
+}
+
+#btMessagem1 {
+    margin-left: -1%;
+}
+
+#divAdNotaMenssagem {
+    background: #34c2ba;
+    width: 100%;
+    height: 8%;
+    border: 5px solid black;
+}
+
+#divAdNotaMenssagem select {
+    width: 15%;
+    padding: 5px;
+    cursor: pointer;
+    background: #63e9e1;
+}

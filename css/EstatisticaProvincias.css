@@ -1,0 +1,252 @@
+#divBarra {
+    text-align: center;
+    background: black;
+    width: 100%;
+    height: 7vh;
+    color: white;
+}
+
+#divPrincipal {
+    margin-top: 2%;
+}
+
+#divSlide {
+    height: 50vh;
+    width: 35%!important;
+    border: 5px solid blue;
+    margin-left: 0%;
+}
+
+#carouselExampleControls img {
+    height: 48vh;
+    width: 100%;
+}
+
+#divPrincipal11 {
+    background-image: url(../imagem/fundo.png);
+    background-size: 97%;
+    background-position: center;
+    background-position-y: 100px;
+    font-size: 20px;
+    height: 90vh;
+}
+
+#priva {
+    border: 4px solid black;
+    text-align: right;
+    margin-top: -60px;
+    margin-right: 6%;
+}
+
+#pub {
+    border: 4px solid black;
+    text-align: left;
+}
+
+#cadapriva {
+    border: 4px solid black;
+    text-align: center;
+    margin-top: -60px;
+    margin-left: 40%!important;
+}
+
+#cadapub {
+    border: 4px solid black;
+    text-align: left;
+}
+
+img.icoBack {
+    width: 3%;
+    height: 7%;
+    border-radius: 50px;
+    background: #37a5e5;
+    margin-right: 2%;
+}
+
+.icoBack:hover {
+    background: #1070a8;
+}
+
+#myChart {
+    height: 60vh;
+    border: 5px solid black;
+}
+
+#linkLuanda {
+    margin-left: 12%!important;
+}
+
+#bCiclo {
+    margin-left: 10%!important;
+}
+
+#btGps {
+    margin-left: 55%!important;
+}
+
+#linkLuandaEs {
+    margin-left: 2%!important;
+    text-decoration: none;
+}
+
+.divInf {
+    background: #34c2ba;
+    width: 100%;
+    height: 8%;
+    margin-top: -20px;
+}
+
+.divInf select {
+    width: 15%;
+    padding: 5px;
+    cursor: pointer;
+    background: #63e9e1;
+}
+
+#Pesquisar {
+    margin-left: 92%;
+    cursor: pointer;
+    margin-bottom: -22px;
+}
+
+
+/* CHAT TURMA */
+
+#formChat1 {
+    height: 90vh;
+    width: 58%;
+    margin-left: 42%;
+    margin-top: -89vh;
+    margin-bottom: 5vh;
+    border: 5px solid black;
+    background-color: #01354c !important;
+    opacity: 0.9;
+    text-align: left;
+}
+
+#formChat1 h2 {
+    text-align: center;
+}
+
+
+/* CHAT   */
+
+#text {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#texto {
+    width: 100%;
+}
+
+p {
+    color: white;
+}
+
+.srch_bar .input-group-addon button {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    padding: 0;
+    color: #707070;
+    font-size: 18px;
+}
+
+.time_date {
+    color: #277e94;
+    display: block;
+    font-size: 12px;
+    margin: 8px 0 0;
+}
+
+.received_withd_msg {}
+
+.outgoing_msg {
+    overflow: hidden;
+    margin: 26px 0 26px;
+}
+
+.sent_msg {
+    float: right;
+}
+
+#tamanho1 {
+    box-sizing: content-box;
+    border-radius: 10px;
+}
+
+#tamanho2 {
+    box-sizing: content-box;
+    border-radius: 10px;
+}
+
+#tamanho1::before {
+    left: -15px;
+    border-bottom: 20px solid transparent;
+    border-right: 20px solid #003847;
+}
+
+#tamanho1 {
+    background-color: #003847;
+    display: inline-block;
+    padding: 10px 10px;
+    position: relative;
+    margin-left: 20px;
+    margin: 15px;
+}
+
+
+/* importante */
+
+#tamanho1::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    width: 0;
+    height: 0;
+}
+
+#tamanho2::before {
+    right: -15px;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid rgb(143, 151, 151);
+}
+
+#tamanho2 {
+    background-color: rgb(143, 151, 151);
+    display: inline-block;
+    padding: 10px 10px;
+    position: relative;
+    margin-right: 20px;
+}
+
+
+/* importante */
+
+#tamanho2::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    width: 0;
+    height: 0;
+}
+
+#history {
+    overflow-y: auto !important;
+    height: 65vh;
+    background: white;
+}
+
+#bb {
+    margin-left: 105%;
+    margin-top: -65px;
+}
+
+#inputFile {
+    margin-top: 0px;
+}
+
+#outro {
+    height: 7vh;
+}
